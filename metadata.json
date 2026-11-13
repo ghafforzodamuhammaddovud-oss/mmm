@@ -1,0 +1,6 @@
+{
+  "name": "Ҳисоби эффективнокии обёрии механикӣ (Тоҷикистон)",
+  "description": "Мини-платформаи муосир барои ҳисоби гидравликӣ ва иқтисодии самаранокии обёрии механикӣ дар Тоҷикистон.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
